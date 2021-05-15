@@ -3,5 +3,4 @@ It is very Basic app having all cre components of Reactjs such as components(cla
 
 ![](images/1.png)
 
-<h2> ScreenShot of MODAL<h2/>
 ![](images/2.png)
